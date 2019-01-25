@@ -3,9 +3,9 @@
 # Frontend Dev Challenge
 
 ## Contents
-- [#premise](Premise)
-- [#entries](Entries)
-  - [#week-1](Week 1)
+- [Premise](#premise)
+- [Entries](#entries)
+  - [Week 1](#week-1)
 
 ## Premise
 
