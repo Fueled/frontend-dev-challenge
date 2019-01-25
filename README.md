@@ -21,4 +21,4 @@ If this sounds like the sort of thing you’d relish doing and you think you’d
 
 **Dark/Light UI Toggle** Create a toggle to switch between dark and light, or day and night mode.
 
-[Full collection](https://codepen.io/collection/AMojbZ/)
+[Full collection →](https://codepen.io/collection/AMojbZ/)
