@@ -16,7 +16,7 @@ It follows the same format: a loose brief is given to the team on a Friday (with
 
 If this sounds like the sort of thing you’d relish doing and you think you’d be a good fit for the Frontend team at Fueled, then get in touch, [we’re hiring](https://fueled.com/jobs)!
 
-## Entries
+## Submissions
 
 ### Week 1
 
