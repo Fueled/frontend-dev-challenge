@@ -22,13 +22,13 @@ If this sounds like the sort of thing you’d relish doing and you think you’d
 
 **Dark/Light UI Toggle** Create a toggle to switch between dark and light, or day and night mode.
 
-[Full collection →](https://codepen.io/collection/AMojbZ/)
+[Full collection →](https://codepen.io/collection/AMojbZ/)  
 [Blog post →](https://fueled.com/blog/frontend-dev-challenge-1/)
 
 ### Week 2
 
 **Public API Consumption** Find a Public API of your choice [from this](https://github.com/toddmotto/public-apis/blob/master/README.md) list and render it however you see fit.
 
-[Full collection →](https://codepen.io/collection/nWOjMd/)
-[Timo’s submission →](https://timo-jj.github.io/)
+[Full collection →](https://codepen.io/collection/nWOjMd/)  
+[Timo’s submission →](https://timo-jj.github.io/)  
 [Blog post →](https://fueled.com/blog/frontend-dev-challenge-week-2/)
