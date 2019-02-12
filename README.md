@@ -5,7 +5,8 @@
 ## Contents
 - [Premise](#premise)
 - [Entries](#entries)
-  - [Week 1](#week-1)
+  - [Week 1 – Dark/Light UI Toggle](#week-1)
+  - [Week 2 – Public API Consumption](#week-2)
 
 ## Premise
 
@@ -15,10 +16,19 @@ It follows the same format: a loose brief is given to the team on a Friday (with
 
 If this sounds like the sort of thing you’d relish doing and you think you’d be a good fit for the Frontend team at Fueled, then get in touch, [we’re hiring](https://fueled.com/jobs)!
 
-## Entries
+## Submissions
 
 ### Week 1
 
 **Dark/Light UI Toggle** Create a toggle to switch between dark and light, or day and night mode.
 
-[Full collection →](https://codepen.io/collection/AMojbZ/)
+[Full collection →](https://codepen.io/collection/AMojbZ/)  
+[Blog post →](https://fueled.com/blog/frontend-dev-challenge-week-1/)
+
+### Week 2
+
+**Public API Consumption** Find a Public API of your choice [from this](https://github.com/toddmotto/public-apis/blob/master/README.md) list and render it however you see fit.
+
+[Full collection →](https://codepen.io/collection/nWOjMd/)  
+[Timo’s submission →](https://timo-jj.github.io/)  
+[Blog post →](https://fueled.com/blog/frontend-dev-challenge-week-2/)
